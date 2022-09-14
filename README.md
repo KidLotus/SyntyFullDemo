@@ -2,7 +2,7 @@
 Working Demo of Synty dungeon asset
 
 # Unity Version
-TBD
+2021.3.9f
 
 # Assets
 Synty Dungeon Realms (Dungeon Scene)
